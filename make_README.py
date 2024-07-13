@@ -26,7 +26,8 @@ def make_md(input_file, output_file):
             song_name = song
             output_text += f"\n\n## {song_name}\n"
 
-        output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{id}/maxresdefault.jpg\">](https://www.youtube.com/watch?v={id})"
+        # output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{id}/maxresdefault.jpg\">](https://www.youtube.com/watch?v={id})"
+        output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{id}/sddefault.jpg\">](https://www.youtube.com/watch?v={id})"
 
     output_text += "\n"
 
