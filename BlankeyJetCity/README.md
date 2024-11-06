@@ -1,19 +1,16 @@
 
 
-## bp-MpIrLq7w
-[<img width="240" src="https://img.youtube.com/vi/ガゾリンの揺れかた/sddefault.jpg">](https://www.youtube.com/watch?v=ガゾリンの揺れかた)
+## ガゾリンの揺れかた
+[<img width="240" src="https://img.youtube.com/vi/bp-MpIrLq7w/sddefault.jpg">](https://www.youtube.com/watch?v=bp-MpIrLq7w)[<img width="240" src="https://img.youtube.com/vi/o2NUBxmUr4Y&t=63s/sddefault.jpg">](https://www.youtube.com/watch?v=o2NUBxmUr4Y&t=63s)
 
-## o2NUBxmUr4Y&t=63s
-[<img width="240" src="https://img.youtube.com/vi/ガゾリンの揺れかた/sddefault.jpg">](https://www.youtube.com/watch?v=ガゾリンの揺れかた)
+## Baby Baby
+[<img width="240" src="https://img.youtube.com/vi/6ZlR3F7Pqek/sddefault.jpg">](https://www.youtube.com/watch?v=6ZlR3F7Pqek)
 
-## 6ZlR3F7Pqek
-[<img width="240" src="https://img.youtube.com/vi/Baby Baby/sddefault.jpg">](https://www.youtube.com/watch?v=Baby Baby)
+##  DJIのピストル
+[<img width="240" src="https://img.youtube.com/vi/c_N4DzBdje8/sddefault.jpg">](https://www.youtube.com/watch?v=c_N4DzBdje8)
 
-## nan
-[<img width="240" src="https://img.youtube.com/vi/DJIのピストルc_N4DzBdje8/sddefault.jpg">](https://www.youtube.com/watch?v=DJIのピストルc_N4DzBdje8)
+## SKUNK
+[<img width="240" src="https://img.youtube.com/vi/_DLxf1eIJWE/sddefault.jpg">](https://www.youtube.com/watch?v=_DLxf1eIJWE)
 
-## DLxf1eIJWE&t=279s
-[<img width="240" src="https://img.youtube.com/vi/SKUNK/sddefault.jpg">](https://www.youtube.com/watch?v=SKUNK)
-
-## A-VhqqHnEKk
-[<img width="240" src="https://img.youtube.com/vi/BJCイントロギターメドレー/sddefault.jpg">](https://www.youtube.com/watch?v=BJCイントロギターメドレー)
+##  BJCイントロギターメドレー
+[<img width="240" src="https://img.youtube.com/vi/A-VhqqHnEKk/sddefault.jpg">](https://www.youtube.com/watch?v=A-VhqqHnEKk)
