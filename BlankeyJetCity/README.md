@@ -3,6 +3,9 @@
 ## ガゾリンの揺れかた
 [<img width="240" src="https://img.youtube.com/vi/bp-MpIrLq7w/hqdefault.jpg">](https://www.youtube.com/watch?v=bp-MpIrLq7w)[<img width="240" src="https://img.youtube.com/vi/o2NUBxmUr4Y/hqdefault.jpg">](https://www.youtube.com/watch?v=o2NUBxmUr4Y)
 
+## クリスマスと黒いブーツ
+[<img width="240" src="https://img.youtube.com/vi/A-VhqqHnEKk#t=85/hqdefault.jpg">](https://www.youtube.com/watch?v=A-VhqqHnEKk#t=85)
+
 ## Baby Baby
 [<img width="240" src="https://img.youtube.com/vi/6ZlR3F7Pqek/hqdefault.jpg">](https://www.youtube.com/watch?v=6ZlR3F7Pqek)
 
