@@ -4,7 +4,7 @@
 [<img width="240" src="https://img.youtube.com/vi/bp-MpIrLq7w/hqdefault.jpg">](https://www.youtube.com/watch?v=bp-MpIrLq7w)[<img width="240" src="https://img.youtube.com/vi/o2NUBxmUr4Y/hqdefault.jpg">](https://www.youtube.com/watch?v=o2NUBxmUr4Y)
 
 ## クリスマスと黒いブーツ
-[<img width="240" src="https://img.youtube.com/vi/A-VhqqHnEKk#t=85/hqdefault.jpg">](https://www.youtube.com/watch?v=A-VhqqHnEKk#t=85)
+[<img width="240" src="https://img.youtube.com/vi/A-VhqqHnEKk&t=85s/hqdefault.jpg">](https://www.youtube.com/watch?v=A-VhqqHnEKk&t=85s)
 
 ## Baby Baby
 [<img width="240" src="https://img.youtube.com/vi/6ZlR3F7Pqek/hqdefault.jpg">](https://www.youtube.com/watch?v=6ZlR3F7Pqek)
@@ -15,5 +15,5 @@
 ## SKUNK
 [<img width="240" src="https://img.youtube.com/vi/_DLxf1eIJWE/hqdefault.jpg">](https://www.youtube.com/watch?v=_DLxf1eIJWE)
 
-##  BJCイントロギターメドレー
-[<img width="240" src="https://img.youtube.com/vi/A-VhqqHnEKk/hqdefault.jpg">](https://www.youtube.com/watch?v=A-VhqqHnEKk)
+##  イントロ集
+[<img width="240" src="https://img.youtube.com/vi/A-VhqqHnEKk/hqdefault.jpg">](https://www.youtube.com/watch?v=A-VhqqHnEKk)[<img width="240" src="https://img.youtube.com/vi/6GxHuIi7cpE/hqdefault.jpg">](https://www.youtube.com/watch?v=6GxHuIi7cpE)
