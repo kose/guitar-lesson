@@ -2,6 +2,7 @@
 
 ## Misty Mountain Hop
 [<img width="240" src="https://img.youtube.com/vi/mLTFwU1pP0Y/maxresdefault.jpg">](https://www.youtube.com/watch?v=mLTFwU1pP0Y)
+[<img width="240" src="https://img.youtube.com/vi/5Oa2ZYMkUc0/maxresdefault.jpg">](https://www.youtube.com/watch?v=5Oa2ZYMkUc0)
 [<img width="240" src="https://img.youtube.com/vi/rTzcz4qDNZM/maxresdefault.jpg">](https://www.youtube.com/watch?v=rTzcz4qDNZM)
 [<img width="240" src="https://img.youtube.com/vi/i_u85yqMjLA/maxresdefault.jpg">](https://www.youtube.com/watch?v=i_u85yqMjLA)
 
