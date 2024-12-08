@@ -26,13 +26,18 @@ def make_md(input_file, output_file):
             song_name = song
             output_text += f"\n\n## {song_name}\n"
 
-        # JPG = "maxresdefault.jpg"
+        JPG = "maxresdefault.jpg"
         # JPG = "sddefault.jpg"
-        JPG = "hqdefault.jpg"
+        # JPG = "hqdefault.jpg"
         # JPG = "mqdefault.jpg"
         # JPG = "default.jpg"
-            
-        output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{id}/{JPG}\">](https://www.youtube.com/watch?v={id})"
+
+        # id 例: A-VhqqHnEKk&t=85s の場合は、A-VhqqHnEKk とする (&t=85s は除く)
+        thumbnail_id = id.split("&")[0]
+
+        output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{thumbnail_id}/{JPG}\">](https://www.youtube.com/watch?v={id})\n"
+        # FIXME: 別ATBで開く。下のではダメ
+        # output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{thumbnail_id}/{JPG}\">](https://www.youtube.com/watch?v={id} \"target='_blank'\")\n"
 
     output_text += "\n"
 
