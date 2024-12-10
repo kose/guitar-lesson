@@ -32,6 +32,7 @@
 
 ## The Rover
 [<img width="240" src="https://img.youtube.com/vi/zKr53YxxH60/maxresdefault.jpg">](https://www.youtube.com/watch?v=zKr53YxxH60)
+[<img width="240" src="https://img.youtube.com/vi/hjSZKHpnY6c/maxresdefault.jpg">](https://www.youtube.com/watch?v=hjSZKHpnY6c)
 [<img width="240" src="https://img.youtube.com/vi/ZjKDKxntinU/maxresdefault.jpg">](https://www.youtube.com/watch?v=ZjKDKxntinU)
 [<img width="240" src="https://img.youtube.com/vi/07q_eyqT11Q/maxresdefault.jpg">](https://www.youtube.com/watch?v=07q_eyqT11Q)
 [<img width="240" src="https://img.youtube.com/vi/UFCjFCh9X5o/maxresdefault.jpg">](https://www.youtube.com/watch?v=UFCjFCh9X5o)
