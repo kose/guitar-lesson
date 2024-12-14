@@ -9,6 +9,10 @@ import sys
 import csv
 import pandas as pd
 
+# サムネイルがdefaultで表示されないもののテーブル
+thumbnail_table = {"hjSZKHpnY6c": "hqdefault.jpg", "ZjKDKxntinU": "hqdefault.jpg",
+                   "FM4JtbphU8o": "hqdefault.jpg"}
+
 def make_md(input_file, output_file):
 
     output_text = ""
@@ -26,15 +30,20 @@ def make_md(input_file, output_file):
             song_name = song
             output_text += f"\n\n## {song_name}\n"
 
-        JPG = "maxresdefault.jpg"
+        # id 例: A-VhqqHnEKk&t=85s の場合は、A-VhqqHnEKk とする (&t=85s は除く)
+        thumbnail_id = id.split("&")[0]
+
+        # JPG = "maxresdefault.jpg"
         # JPG = "sddefault.jpg"
         # JPG = "hqdefault.jpg"
         # JPG = "mqdefault.jpg"
         # JPG = "default.jpg"
 
-        # id 例: A-VhqqHnEKk&t=85s の場合は、A-VhqqHnEKk とする (&t=85s は除く)
-        thumbnail_id = id.split("&")[0]
-
+        if thumbnail_id in thumbnail_table:
+            JPG = thumbnail_table[thumbnail_id]
+        else:
+            JPG = "maxresdefault.jpg"
+        
         output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{thumbnail_id}/{JPG}\">](https://www.youtube.com/watch?v={id})\n"
         # FIXME: 別ATBで開く。下のではダメ
         # output_text += f"[<img width=\"240\" src=\"https://img.youtube.com/vi/{thumbnail_id}/{JPG}\">](https://www.youtube.com/watch?v={id} \"target='_blank'\")\n"
