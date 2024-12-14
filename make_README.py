@@ -11,7 +11,7 @@ import pandas as pd
 
 # サムネイルがdefaultで表示されないもののテーブル
 thumbnail_table = {"hjSZKHpnY6c": "hqdefault.jpg", "ZjKDKxntinU": "hqdefault.jpg",
-                   "FM4JtbphU8o": "hqdefault.jpg"}
+                   "FM4JtbphU8o": "hqdefault.jpg", "zNbheLU69hs": "hqdefault.jpg"}
 
 def make_md(input_file, output_file):
 
