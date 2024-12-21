@@ -72,6 +72,8 @@
 
 ## Whole Lotta Love
 [<img width="240" src="https://img.youtube.com/vi/R-0UWD3Vlcg/maxresdefault.jpg">](https://www.youtube.com/watch?v=R-0UWD3Vlcg)
+[<img width="240" src="https://img.youtube.com/vi/dtVU4-WCahM/maxresdefault.jpg">](https://www.youtube.com/watch?v=dtVU4-WCahM)
+[<img width="240" src="https://img.youtube.com/vi/N59R2wZPJRw/maxresdefault.jpg">](https://www.youtube.com/watch?v=N59R2wZPJRw)
 
 
 ## Achilles Last Stand
