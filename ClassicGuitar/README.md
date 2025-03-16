@@ -14,5 +14,5 @@
 
 
 ## バッハ ブーレ
-[<img width="240" src="https://img.youtube.com/vi/A4M11qXE70Q/maxresdefault.jpg">](https://www.youtube.com/watch?v=A4M11qXE70Q)
+[<img width="240" src="https://img.youtube.com/vi/A4M11qXE70Q/maxresdefault.jpg">](https://www.youtube.com/watch?v=A4M11qXE70Q&t=20s)
 
