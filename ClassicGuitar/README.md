@@ -10,5 +10,5 @@
 
 
 ## ヴィラ・ロボス前奏曲1番
-[<img width="240" src="https://img.youtube.com/vi/gJwgKTxg5zU/maxresdefault.jpg">](https://www.youtube.com/watch?v=gJwgKTxg5zU)
+[<img width="240" src="https://img.youtube.com/vi/gJwgKTxg5zU/hqdefault.jpg">](https://www.youtube.com/watch?v=gJwgKTxg5zU)
 
