@@ -32,6 +32,8 @@
 
 
 ## The Rain Song
+[<img width="240" src="https://img.youtube.com/vi/V9sm-u4Ae08/maxresdefault.jpg">](https://www.youtube.com/watch?v=V9sm-u4Ae08)
+[<img width="240" src="https://img.youtube.com/vi/wN_2Ing8rC8/maxresdefault.jpg">](https://www.youtube.com/watch?v=wN_2Ing8rC8)
 [<img width="240" src="https://img.youtube.com/vi/BeDylD8dV7U/maxresdefault.jpg">](https://www.youtube.com/watch?v=BeDylD8dV7U)
 [<img width="240" src="https://img.youtube.com/vi/7rPbfSSWW6Y/maxresdefault.jpg">](https://www.youtube.com/watch?v=7rPbfSSWW6Y)
 [<img width="240" src="https://img.youtube.com/vi/dCs-1DzbgCw/hqdefault.jpg">](https://www.youtube.com/watch?v=dCs-1DzbgCw)
