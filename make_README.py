@@ -13,7 +13,8 @@ import pandas as pd
 thumbnail_table = {"hjSZKHpnY6c": "hqdefault.jpg", "ZjKDKxntinU": "hqdefault.jpg",
                    "FM4JtbphU8o": "hqdefault.jpg", "zNbheLU69hs": "hqdefault.jpg",
                    "gkpM0sJSATk": "hqdefault.jpg", "gJwgKTxg5zU": "hqdefault.jpg",
-                   "O3Bs7Cx98qU": "hqdefault.jpg", "dCs-1DzbgCw": "hqdefault.jpg"
+                   "O3Bs7Cx98qU": "hqdefault.jpg", "dCs-1DzbgCw": "hqdefault.jpg",
+                   "dR2fkq6pG54": "hqdefault.jpg",
                    }
 
 def make_md(input_file, output_file):
