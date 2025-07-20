@@ -2,6 +2,7 @@
 
 ## Babe I'am Gonna leave you
 [<img width="240" src="https://img.youtube.com/vi/cJfsS-bpIrw/maxresdefault.jpg">](https://www.youtube.com/watch?v=cJfsS-bpIrw)
+[<img width="240" src="https://img.youtube.com/vi/dR2fkq6pG54/maxresdefault.jpg">](https://www.youtube.com/watch?v=dR2fkq6pG54)
 
 
 ## Sick Again
