@@ -53,6 +53,7 @@
 ## Rock and Roll
 [<img width="240" src="https://img.youtube.com/vi/3aqzlZV8Id4/maxresdefault.jpg">](https://www.youtube.com/watch?v=3aqzlZV8Id4)
 [<img width="240" src="https://img.youtube.com/vi/Ysg7qDxmbyE/maxresdefault.jpg">](https://www.youtube.com/watch?v=Ysg7qDxmbyE)
+[<img width="240" src="https://img.youtube.com/vi/7mMWQ5iofk8/maxresdefault.jpg">](https://www.youtube.com/watch?v=7mMWQ5iofk8)
 
 
 ## The Rover
@@ -102,6 +103,7 @@
 
 ## Achilles Last Stand
 [<img width="240" src="https://img.youtube.com/vi/WWClwhMthoE/maxresdefault.jpg">](https://www.youtube.com/watch?v=WWClwhMthoE)
+[<img width="240" src="https://img.youtube.com/vi/JRZ2bHeFTqE/maxresdefault.jpg">](https://www.youtube.com/watch?v=JRZ2bHeFTqE)
 
 
 ## Since I've Been Loving You
